@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "WebApiRecargas.Controllers.VentaTotalController",
+    "Method": "AgregaRecarga",
+    "RelativePath": "api/Ventatotal/AgregaRecarga",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "agregaRecarga",
+        "Type": "WebApiRecargas.Model.AgregaRecarga",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiRecargas.Controllers.VentaTotalController",
+    "Method": "GetOperadores",
+    "RelativePath": "api/Ventatotal/GetOperadores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiRecargas.Controllers.VentaTotalController",
+    "Method": "GetVendedores",
+    "RelativePath": "api/Ventatotal/GetVendedores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiRecargas.Controllers.VentaTotalController",
+    "Method": "GetAllReferencesByBrand",
+    "RelativePath": "api/Ventatotal/GetVentaTotal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

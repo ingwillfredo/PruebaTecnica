@@ -1,0 +1,11 @@
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\bin\Debug\net6.0\WebApiRecargas.Model.deps.json
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\bin\Debug\net6.0\WebApiRecargas.Model.dll
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\bin\Debug\net6.0\WebApiRecargas.Model.pdb
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\WebApiRecargas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\WebApiRecargas.Model.AssemblyInfoInputs.cache
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\WebApiRecargas.Model.AssemblyInfo.cs
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\WebApiRecargas.Model.csproj.CoreCompileInputs.cache
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\WebApiRecargas.Model.dll
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\refint\WebApiRecargas.Model.dll
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\WebApiRecargas.Model.pdb
+C:\Pruebas\WebApiRecargas\WebApiRecargas.Model\obj\Debug\net6.0\ref\WebApiRecargas.Model.dll

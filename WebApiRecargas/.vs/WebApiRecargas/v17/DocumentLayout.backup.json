@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pruebas\\WebApiRecargas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B09E071-A982-4AF6-83CC-E4970B3B59A1}|WebApiRecargas.Data\\WebApiRecargas.Data.csproj|c:\\pruebas\\webapirecargas\\webapirecargas.data\\ventatotalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B09E071-A982-4AF6-83CC-E4970B3B59A1}|WebApiRecargas.Data\\WebApiRecargas.Data.csproj|solutionrelative:webapirecargas.data\\ventatotalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B09E071-A982-4AF6-83CC-E4970B3B59A1}|WebApiRecargas.Data\\WebApiRecargas.Data.csproj|c:\\pruebas\\webapirecargas\\webapirecargas.data\\iventatotalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B09E071-A982-4AF6-83CC-E4970B3B59A1}|WebApiRecargas.Data\\WebApiRecargas.Data.csproj|solutionrelative:webapirecargas.data\\iventatotalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED9DC3-CCA9-4E15-9F01-75F6E7B5D6A8}|WebApiRecargas\\WebApiRecargas.csproj|c:\\pruebas\\webapirecargas\\webapirecargas\\controllers\\ventatotalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED9DC3-CCA9-4E15-9F01-75F6E7B5D6A8}|WebApiRecargas\\WebApiRecargas.csproj|solutionrelative:webapirecargas\\controllers\\ventatotalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|c:\\pruebas\\webapirecargas\\webapirecargas.model\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|solutionrelative:webapirecargas.model\\operador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|c:\\pruebas\\webapirecargas\\webapirecargas.model\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|solutionrelative:webapirecargas.model\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|c:\\pruebas\\webapirecargas\\webapirecargas.model\\ventatotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|solutionrelative:webapirecargas.model\\ventatotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|c:\\pruebas\\webapirecargas\\webapirecargas.model\\agregarecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D84273D-9EB4-4F14-A03F-98B90B3BD329}|WebApiRecargas.Model\\WebApiRecargas.Model.csproj|solutionrelative:webapirecargas.model\\agregarecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B09E071-A982-4AF6-83CC-E4970B3B59A1}|WebApiRecargas.Data\\WebApiRecargas.Data.csproj|c:\\pruebas\\webapirecargas\\webapirecargas.data\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B09E071-A982-4AF6-83CC-E4970B3B59A1}|WebApiRecargas.Data\\WebApiRecargas.Data.csproj|solutionrelative:webapirecargas.data\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operador.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\Operador.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas.Model\\Operador.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\Operador.cs",
+              "RelativeToolTip": "WebApiRecargas.Model\\Operador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:12:21.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\Vendedor.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas.Model\\Vendedor.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\Vendedor.cs",
+              "RelativeToolTip": "WebApiRecargas.Model\\Vendedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:07:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaTotal.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\VentaTotal.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas.Model\\VentaTotal.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\VentaTotal.cs",
+              "RelativeToolTip": "WebApiRecargas.Model\\VentaTotal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:23:51.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregaRecarga.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\AgregaRecarga.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas.Model\\AgregaRecarga.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Model\\AgregaRecarga.cs",
+              "RelativeToolTip": "WebApiRecargas.Model\\AgregaRecarga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:04:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Data\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas.Data\\Data\\Conexion.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Data\\Data\\Conexion.cs",
+              "RelativeToolTip": "WebApiRecargas.Data\\Data\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:53:09.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaTotalController.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas\\Controllers\\VentaTotalController.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas\\Controllers\\VentaTotalController.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas\\Controllers\\VentaTotalController.cs",
+              "RelativeToolTip": "WebApiRecargas\\Controllers\\VentaTotalController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:42:44.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVentaTotalRepository.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Data\\IVentaTotalRepository.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas.Data\\IVentaTotalRepository.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Data\\IVentaTotalRepository.cs",
+              "RelativeToolTip": "WebApiRecargas.Data\\IVentaTotalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:34:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaTotalRepository.cs",
+              "DocumentMoniker": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Data\\VentaTotalRepository.cs",
+              "RelativeDocumentMoniker": "WebApiRecargas.Data\\VentaTotalRepository.cs",
+              "ToolTip": "C:\\Pruebas\\WebApiRecargas\\WebApiRecargas.Data\\VentaTotalRepository.cs*",
+              "RelativeToolTip": "WebApiRecargas.Data\\VentaTotalRepository.cs*",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAUwJ8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:34:01.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
